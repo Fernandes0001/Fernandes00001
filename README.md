@@ -2,9 +2,11 @@
 
 meu nome é miguel Fernandes
 
--estou estudando no alura
--estou aprendendo na linguagem javaScript
--ULTILIZO esse espaço para compartilhar meu desenvolvimento 
+ -estou estudando no alura
+ 
+ -estou aprendendo na linguagem javaScript
+ 
+ -ULTILIZO esse espaço para compartilhar meu desenvolvimento 
 
 ### para entrar em contato comigo 🫵🏾✉️
 
